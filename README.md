@@ -2,6 +2,10 @@
 
 ***
 **Assignments 00 to 05**
+- 00_intro_python - https://colab.research.google.com/drive/1Dqk5VgL12WBQ26kWTgWCRSv0vJagSMPW?usp=drive_link
+- 01_expressions - https://colab.research.google.com/drive/1uxnUr0E4pA7TdxJXXl1DkbCQDbhGK0ZU?usp=drive_link
+- 02_lists - https://colab.research.google.com/drive/1OMX-cHWiZ2S6zM0Do2eFuRUOH7eCq37M?usp=drive_link
+- 03_if_statements - https://colab.research.google.com/drive/15jRpfoE28NGWYbwwjiuv9w16GA6YztVT?usp=drive_link
 
 ***
 **Assignments 01**   
