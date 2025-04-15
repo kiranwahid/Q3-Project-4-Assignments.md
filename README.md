@@ -6,6 +6,10 @@
 - 01_expressions - https://colab.research.google.com/drive/1uxnUr0E4pA7TdxJXXl1DkbCQDbhGK0ZU?usp=drive_link
 - 02_lists - https://colab.research.google.com/drive/1OMX-cHWiZ2S6zM0Do2eFuRUOH7eCq37M?usp=drive_link
 - 03_if_statements - https://colab.research.google.com/drive/15jRpfoE28NGWYbwwjiuv9w16GA6YztVT?usp=drive_link
+- 04_dictionaries - https://colab.research.google.com/drive/1PKy8Mx5XQtmUvJscsjbj7em08YjsvBE0?usp=drive_link
+- 05_loops_control_flow - https://colab.research.google.com/drive/1C08tRGAavv-FFnFl5KfhJ3cqq4oF4TQW?usp=drive_link
+- 06_functions - https://colab.research.google.com/drive/1xnrcimlRSX8-1cEIDxvKnyMS58x8CXdV?usp=drive_link
+- 
 
 ***
 **Assignments 01**   
