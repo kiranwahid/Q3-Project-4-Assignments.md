@@ -1,7 +1,7 @@
-*Project 4 Assignments*
+# Project 4 Assignments
 
 ***
-**Assignments 00 to 05**
+## Assignments 00 to 05
 - 00_intro_python - https://colab.research.google.com/drive/1Dqk5VgL12WBQ26kWTgWCRSv0vJagSMPW?usp=drive_link
 - 01_expressions - https://colab.research.google.com/drive/1uxnUr0E4pA7TdxJXXl1DkbCQDbhGK0ZU?usp=drive_link
 - 02_lists - https://colab.research.google.com/drive/1OMX-cHWiZ2S6zM0Do2eFuRUOH7eCq37M?usp=drive_link
@@ -12,13 +12,13 @@
 - 07_information_flow - https://colab.research.google.com/drive/1vkcHJS2qs_oEKx73f2RSoc6gEBByJqB0?usp=drive_link
 
 ***
-**Assignments 01**   
+## Assignments 01
 
 - 01_basics  - https://colab.research.google.com/drive/1phSSVXvfiCngaoAKARM-eb5VcFw4kIFW?usp=drive_link
 
 ***
 
-**Assignments 1 to 6**
+## Assignments 1 to 6
 - Project 1: Mad libs Python Project - https://colab.research.google.com/drive/1lxDFMWxeSKNl7fmCWCp440_eLM97aU9Y?usp=drive_link
 - Project 2: Guess the Number Game Python Project (computer) - https://colab.research.google.com/drive/1L7sT5o_lUG94VfOCXLbQcv1s4qnI2aIS?usp=drive_link
 - Project 3: Guess the Number Game Python Project (user) -  https://colab.research.google.com/drive/1R8Sr44gs2bRgErj9blqZr8PrNYe_sq6j?usp=drive_link
