@@ -17,6 +17,10 @@
 - Project 4: Rock, paper, scissors Python Project -  https://colab.research.google.com/drive/1fiYAfxqJc-hAAgUs7nQHUBAr9hWsU3oy?usp=drive_link
 - Project 5: Hangman Python Project - https://colab.research.google.com/drive/10fNKKYRLDpnsG8sWqDO447kbfICJCn65?usp=drive_link
 - Project 6: Countdown Timer Python Project - https://colab.research.google.com/drive/1zgzfQDKStuUZ9bcy4W6Z_jwQD9EEVidt?usp=drive_link
+- Project 7: Password Generator Python Project - https://colab.research.google.com/drive/1Z5vVd41kAIwTIl10OIZayuNX5bFoudYo?usp=drive_link
+   
+
+
 
 
 
